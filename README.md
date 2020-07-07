@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+My Name is Jordan
+
+
+
 - 🔭 I’m currently working on Programming in Python and OOP.
 - 👯 I’m looking to collaborate on projects revolving around Python and Machine Learning.
 - 💬 Ask me about Network Automation Via Python, and infrastructure tooling.
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
+
+## Get in touch
 
 
 <!--
