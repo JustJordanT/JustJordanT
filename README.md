@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My Name is Jordan
+##### My Name is Jordan
 
-
+Currently working as a Sr SRE Engineer. currently working automation technologies and how we can use AI / ML reasources to make a better infrastructure.
 
 - 🔭 I’m currently working on Programming in Python and OOP.
 - 👯 I’m looking to collaborate on projects revolving around Python and Machine Learning.
