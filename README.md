@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### My Name is Jordan
+### My Name is Jordan.
 
 Currently working as a Sr SRE Engineer. currently working automation technologies and how we can use AI / ML reasources to make a better infrastructure. I'm a big technology nerd when I am not working I am probally leanring or spending time with family.
 
@@ -10,7 +10,7 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
-## Get in touch
+### Get in touch
 
 
 <!--
