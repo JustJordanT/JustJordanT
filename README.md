@@ -10,7 +10,7 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
-### Get in touch
+## Get in touch
 
 Twitter: [JustJordanT](https://twitter.com/Just_Jordan_T)
 
