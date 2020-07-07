@@ -13,7 +13,7 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
 ### Get in touch
 
 Twitter: [JustJordanT](https://twitter.com/Just_Jordan_T)
-
+Personal Site: [JustJordanT.com](JustJordanT.com)
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
