@@ -2,7 +2,7 @@
 
 ### My Name is Jordan.
 
-Currently working as a Sr SRE Engineer. currently working automation technologies and how we can use AI / ML reasources to make a better infrastructure. I'm a big technology nerd when I am not working I am probally leanring or spending time with family.
+Currently working as a Sr SRE Engineer. currently working automation technologies and how we can use AI / ML reasources to make a better infrastructure. I'm a big technology nerd when I am not working I am probably leanring or spending time with family.
 
 - 🔭 I’m currently working on Programming in Python and OOP.
 - 👯 I’m looking to collaborate on projects revolving around Python and Machine Learning.
