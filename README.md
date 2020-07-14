@@ -1,6 +1,5 @@
 ## Hi there 👋
-![ss](https://media.giphy.com/media/136XbUrot08ZCU/source.gif)
-![ll](https://media.giphy.com/media/dIOrXPiZJtmyA/source.gif)
+![ss](https://media.giphy.com/media/136XbUrot08ZCU/source.gif) ![ll](https://media.giphy.com/media/dIOrXPiZJtmyA/source.gif)
 ### My Name is Jordan.
 
 Currently working as a Sr SRE Engineer. currently working automation technologies and how we can use AI / ML reasources to make a better infrastructure. I'm a big technology nerd when I am not working I am probably leanring or spending time with family.
