@@ -1,5 +1,5 @@
 ## Hi there 👋
-<iframe src="https://giphy.com/embed/136XbUrot08ZCU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-136XbUrot08ZCU">via GIPHY</a></p>
+![ss](https://media.giphy.com/media/136XbUrot08ZCU/source.gif)
 ![ll](https://media.giphy.com/media/dIOrXPiZJtmyA/source.gif)
 ### My Name is Jordan.
 
