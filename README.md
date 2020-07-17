@@ -18,6 +18,18 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
 
 **Linkedin**: [Jordan Taylor](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 
+## Lets Talks? ☕
+
+  <a href="https://www.linkedin.com/in/jordan-taylor-3555aba6/">
+    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/Just_Jordan_T">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+  </a>
+  <a href="mailto:Jordantay9014@gmail.com">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+  </a>
+
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
