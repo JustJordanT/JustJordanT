@@ -37,7 +37,31 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
       </td>
       </tbody>
 </table>
-
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>TensorFlow</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Google Cloud Platform</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>ANGULAR</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      </tbody>
+</table>
 ## Lets Talks? ☕
 
   <a href="https://www.linkedin.com/in/jordan-taylor-3555aba6/">
