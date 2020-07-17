@@ -20,8 +20,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>CSS3</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>JAVASCRIPT</strong></span><br><br><br>
