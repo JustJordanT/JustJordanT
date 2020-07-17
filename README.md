@@ -53,8 +53,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
       </td>
       <td width="20%" align="center">
-        <span><strong>ANGULAR</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+        <span><strong>Keras</strong></span><br><br><br>
+        <img height="64px" src="https://keras.io/img/logo.png">
       </td>
       <td width="20%" align="center">
         <span><strong>Ansible</strong></span><br><br><br>
