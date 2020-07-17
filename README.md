@@ -49,8 +49,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>Google Cloud Platform</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
+        <span><strong>SciKit Learn</strong></span><br><br><br>
+        <img height="64px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
       </td>
       <td width="20%" align="center">
         <span><strong>ANGULAR</strong></span><br><br><br>
