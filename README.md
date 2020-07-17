@@ -10,13 +10,33 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
-## Get in touch
+## ToolBox
 
-**Twitter**: [JustJordanT](https://twitter.com/Just_Jordan_T)
-
-**Personal Site**: [JustJordanT.com](JustJordanT.com)
-
-**Linkedin**: [Jordan Taylor](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Azure</strong></span><br><br><br>
+        <img height="64px" src="https://azure.microsoft.com/">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>CSS3</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>JAVASCRIPT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>ANGULAR</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      </tbody>
+</table>
 
 ## Lets Talks? ☕
 
@@ -43,4 +63,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Get in touch
+
+**Twitter**: [JustJordanT](https://twitter.com/Just_Jordan_T)
+
+**Personal Site**: [JustJordanT.com](JustJordanT.com)
+
+**Linkedin**: [Jordan Taylor](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 -->
