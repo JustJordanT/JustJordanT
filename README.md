@@ -57,11 +57,12 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>PYTHON</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><strong>ANSIBLE</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
       </td>
       </tbody>
 </table>
+
 ## Lets Talks? ☕
 
   <a href="https://www.linkedin.com/in/jordan-taylor-3555aba6/">
