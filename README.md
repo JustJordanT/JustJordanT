@@ -45,8 +45,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <span><strong>Pytourch</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Google Cloud Platform</strong></span><br><br><br>
@@ -57,7 +57,7 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>ANSIBLE</strong></span><br><br><br>
+        <span><strong>Ansible</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
       </td>
       </tbody>
