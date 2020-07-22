@@ -63,6 +63,31 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
       </td>
       </tbody>
 </table>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Pandas</strong></span><br><br><br>
+        <img height="64px" src="https://pandas.pydata.org/pandas-docs/version/1.0.5/_static/pandas.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Pytourch</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>SciKit Learn</strong></span><br><br><br>
+        <img height="64px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Keras</strong></span><br><br><br>
+        <img height="64px" src="https://keras.io/img/logo.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Ansible</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
+      </td>
+      </tbody>
+</table>
 
 ## Lets Talks? ☕
 
