@@ -33,8 +33,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>Python</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><strong>Ansible</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
       </td>
       </tbody>
 </table>
@@ -58,8 +58,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://keras.io/img/logo.png">
       </td>
       <td width="20%" align="center">
-        <span><strong>Ansible</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
+        <span><strong>Python</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       </tbody>
 </table>
