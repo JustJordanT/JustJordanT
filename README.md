@@ -46,8 +46,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>Numpy</strong></span><br><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <span><strong>Pytourch</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>SciKit Learn</strong></span><br><br><br>
@@ -71,8 +71,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://pandas.pydata.org/pandas-docs/version/1.0.5/_static/pandas.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>Pytourch</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+         <span><strong>Numpy</strong></span><br><br><br>
+        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>SciKit Learn</strong></span><br><br><br>
