@@ -75,8 +75,8 @@ Currently working as a Sr SRE Engineer. currently working automation technologie
         <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>SciKit Learn</strong></span><br><br><br>
-        <img height="64px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+        <span><strong>Matpllotlib Learn</strong></span><br><br><br>
+        <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TsUnqVC3T7qzlWe-1VAEkgHaHa%26pid%3DApi&f=1">
       </td>
       <td width="20%" align="center">
         <span><strong>Keras</strong></span><br><br><br>
