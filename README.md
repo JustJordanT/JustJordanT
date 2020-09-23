@@ -1,6 +1,3 @@
-<p>
-  <img src="https://media2.giphy.com/media/l2Jhu9OrGRImXT4Kk/200w.gif?cid=ecf05e472li05dtxtd9lj36514efbduyli6d041dc5l9wig3&rid=200w.gif"></p>
-
 # My Name is Jordan.👋
 
 Currently working as a Sr SRE Engineer. currently working automation technologies and how we can use AI / ML reasources to make a better infrastructure. I'm a big technology nerd when I am not working I am probably leanring or spending time with family.
