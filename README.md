@@ -8,6 +8,8 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
+
+
 ## Lets Talks! 🗣
 
   <a href="https://www.linkedin.com/in/jordan-taylor-3555aba6/">
@@ -20,8 +22,9 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
    <a href="https://angel.co/u/jordan-taylor-44">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/angellist.svg" />
+    <img align="left" width="18px" src="https://cdn.svgporn.com/logos/angellist.svg" />
   </a>
+  
 
 
 
