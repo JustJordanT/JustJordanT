@@ -18,13 +18,19 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
 <div>
  <p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="laravel"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
-<code><img height="40" src="https://cdn.svgporn.com/logos/azure.svg" title="Azure"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/azure-icon.svg" title="Azure"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/aws.svg" title="AWS"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/terraform.svg" title="Terraform"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/packer.svg" title="Packer"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/puppet-icon.svg" title="Puppet"></code>
+<code><img height="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Falln-extcloud-storage.cisco.com%2Fciscoblogs%2FDevNet_Logo_Image-460x230.png&f=1&nofb=1" title="DevNet"></code>
+<code><img height="40" src="https://duckduckgo.com/i/66d132ff.png" title="Cisco"></code>
+<code><img height="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.PeFzklMyQOwJGuAisIjxmAHaEo%26pid%3DApi&f=1" title="Vmware"></code>
 </p>
 </div>
   
