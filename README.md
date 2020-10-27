@@ -19,6 +19,13 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
   <a href="mailto:Jordantay9014@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
+  
+  **Twitter**: [JustJordanT](https://twitter.com/Just_Jordan_T)
+
+**Personal Site**: [JustJordanT.com](JustJordanT.com)
+
+**Linkedin**: [Jordan Taylor](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
+
 
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,9 +43,6 @@ Here are some ideas to get you started:
 
 ## Get in touch
 
-**Twitter**: [JustJordanT](https://twitter.com/Just_Jordan_T)
 
-**Personal Site**: [JustJordanT.com](JustJordanT.com)
 
-**Linkedin**: [Jordan Taylor](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 -->
