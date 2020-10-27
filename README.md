@@ -19,12 +19,10 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
   <a href="mailto:Jordantay9014@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
-  
-  **Twitter**: [JustJordanT](https://twitter.com/Just_Jordan_T)
+   <a href="https://angel.co/u/jordan-taylor-44">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/angellist.svg" />
+  </a>
 
-**Personal Site**: [JustJordanT.com](JustJordanT.com)
-
-**Linkedin**: [Jordan Taylor](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 
 
 <!--
