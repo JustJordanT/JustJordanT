@@ -1,4 +1,4 @@
-# My Name is Jordan. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+# My Name is Jordan 👨🏽‍🚒. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 Currently working as a Sr Site reliability engineer. Working with automation technologies and how we can use them to make a better infrastructure. I'm a big technology nerd; when I am not working, I am probably learning or spending time with family.
 
