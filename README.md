@@ -15,46 +15,19 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
 ## Toolbox 🪓
-
+<div>
+ <p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="jquery"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="laravel"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="node.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/azure.svg" title="Azure"></code>
 </p>
 </div>
-\
-
-
-## Lets Talks! 🗣
-
-  <a href="https://www.linkedin.com/in/jordan-taylor-3555aba6/">
-    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/Just_Jordan_T">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
-  </a>
-  <a href="mailto:Jordantay9014@gmail.com">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
-  </a>
-   <a href="https://angel.co/u/jordan-taylor-44">
-    <img align="left" width="18px" src="https://cdn.svgporn.com/logos/angellist.svg" />
-  </a>
   
-
-
 
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
