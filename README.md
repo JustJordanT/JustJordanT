@@ -8,7 +8,7 @@
 Currently working as a Sr Site reliability engineer. Working with automation technologies and how we can use them to make a better infrastructure. I'm a big technology nerd; when I am not working, I am probably learning or spending time with family.
 
 
-- 🔭 I’m currently working on Programming in Python and OOP.
+- 🔭 I’m currently working on some projects in Python.
 - 👯 I’m looking to collaborate on projects revolving around Python and Infrastructure technologies 
 - 💬 Ask me about Network Automation Via Python, and infrastructure scripting.
 - 📫 How to reach me: JordanTay9014@gmail.com
