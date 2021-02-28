@@ -16,7 +16,7 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
-## Toolbox 🪓
+## Toolbox 🧰 
 <h3>Things I work with</h3>
 
 <p align="left">
