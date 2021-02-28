@@ -1,7 +1,7 @@
 # My Name is Jordan 👨🏽‍🚒 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 [![linkedin badge](https://img.shields.io/badge/JordanTaylor-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
-[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://www.JustJordanT.com)
+[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-30302f?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
 [![YT badge](https://img.shields.io/badge/JordanT-30302f?style=flat&logo=YouTube)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
 
