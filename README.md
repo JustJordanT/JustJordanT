@@ -22,6 +22,7 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-9400D3?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4fc08d?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-8DD6F9?style=flat-square&logo=microsoft-azure&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1E90FF?style=flat-square&logo=kubernetes&logoColor=white" />
