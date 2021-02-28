@@ -22,7 +22,7 @@ Currently working as a Sr Site reliability engineer. Working with automation tec
 <p align="left">
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-9400D3?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-8DD6F9?style=flat-square&logo=azure&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
