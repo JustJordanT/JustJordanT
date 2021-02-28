@@ -7,7 +7,7 @@
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-30302f?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
 [![YT badge](https://img.shields.io/badge/JordanT-30302f?style=flat&logo=YouTube)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
 
-Currently working as a Sr Production engineer. Working with automation technologies and how we can use them to make a better infrastructure. I'm a big technology nerd; when I am not working, I am probably learning or spending time with family.
+Currently working as a Sr Production engineer. Working with automation technologies and how we can use them to make a better infrastructure. I'm a big technology nerd; when I am not working, I am still learning more software engineering topics or spending time with family.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&layout=compact)
 
