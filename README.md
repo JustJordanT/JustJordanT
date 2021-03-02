@@ -21,7 +21,8 @@ Currently working as a Sr Production engineer. Working with automation technolog
 ## Toolbox 🧰 
 
 <p align="left">
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-9400D3?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=Ansible&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4fc08d?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
