@@ -7,7 +7,7 @@
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-30302f?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
 [![YT badge](https://img.shields.io/badge/JordanT-30302f?style=flat&logo=YouTube)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
 
-Currently working as a Sr Production engineer. Working with automation technologies and how we can use them to make a better infrastructure. I'm a big technology nerd; when I am not working, I am still learning more software engineering topics or spending time with family.
+Currently working as a Sr Production engineer. I'm a big technology nerd; when I am not working, I am still learning more software engineering and Machine Learning topics or spending time with family.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&layout=compact)
 
@@ -22,6 +22,7 @@ Currently working as a Sr Production engineer. Working with automation technolog
 
 <p align="left">
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-F37626?style=flat-square&logo=Pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF7F50?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-Numpy-46a2f1?style=flat-square&logo=Numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=Pandas&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
