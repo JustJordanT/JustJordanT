@@ -22,6 +22,7 @@ Currently working as a Sr Production engineer. Working with automation technolog
 
 <p align="left">
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-F37626?style=flat-square&logo=Pytorch&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-Numpy-46a2f1?style=flat-square&logo=Numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=Pandas&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=Ansible&logoColor=white" />
