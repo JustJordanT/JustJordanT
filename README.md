@@ -12,7 +12,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&layout=compact)
 
 
-- 🔭 I’m currently working on some projects in Python.
+- 🔭 I’m currently working on some Machine Learning projects in Python.
 - 👯 I’m looking to collaborate on projects revolving around Python and Infrastructure technologies 
 - 💬 Ask me about Network Automation Via Python, and infrastructure scripting.
 - 📫 How to reach me: JordanTay9014@gmail.com
