@@ -21,11 +21,12 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
 ## Toolbox 🧰 
 
 <p align="left">
+  <img alt="C#" src="https://img.shields.io/badge/-C#-1a73e8?style=flat-square&logo=C#&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-4fc08d?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-F37626?style=flat-square&logo=Pytorch&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-Numpy-46a2f1?style=flat-square&logo=Numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=Pandas&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-4682B4?style=flat-square&logo=Matplotlib&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-4fc08d?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
