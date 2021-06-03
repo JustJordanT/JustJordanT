@@ -2,10 +2,10 @@
 
 # My Name is Jordan
 
-[![linkedin badge](https://img.shields.io/badge/JordanTaylor-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
-[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
-[![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-30302f?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
-[![YT badge](https://img.shields.io/badge/JordanT-30302f?style=flat&logo=YouTube)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
+[![linkedin badge](https://img.shields.io/badge/JordanTaylor-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
+[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=for-the-badge&logo=google_chrome)](https://justjordant.com/)
+[![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/Just_Jordan_T)
+[![YT badge](https://img.shields.io/badge/JordanT-30302f?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
 
 Currently working as a Sr Production engineer. I'm a big technology nerd; when I am not working, I am always learning more software engineering and Machine Learning topics or spending time with family.
 
