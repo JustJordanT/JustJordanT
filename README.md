@@ -22,7 +22,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-239120?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-0089D6?style=for-the-badge&logo=powershell&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
