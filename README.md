@@ -37,7 +37,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-F05032?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-F37626?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
