@@ -24,7 +24,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Temp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-F37626?style=for-the-badge&logo=Pytorch&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-Numpy-46a2f1?style=for-the-badge&logo=Numpy&logoColor=white" />
