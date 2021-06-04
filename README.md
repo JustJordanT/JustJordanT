@@ -44,6 +44,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
 
 ### Support me ❤
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say hi don't be shy!</b></em>
 
   If you like want I am doing you can sponsor my projects too! 😊
   
