@@ -10,7 +10,11 @@
 
 Currently working as a Sr Production engineer. I'm a big technology nerd; when I am not working, I am always learning more software engineering and Machine Learning topics or spending time with family.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
+
+
 
 
 - 🔭 I’m currently working on softwareEngineering in the .NET ecosystem.
@@ -70,7 +74,7 @@ Here are some ideas to get you started:
 
 ## Get in touch
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&layout=compact)
 support
 </p>
   
