@@ -1,6 +1,6 @@
 <h1>Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-# My Name is Jordan
+## My Name is Jordan
 
 [![linkedin badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=for-the-badge&logo=twitter)](https://twitter.com/Just_Jordan_T)
@@ -19,7 +19,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
-## Toolbox 🧰 
+### Toolbox 🧰 
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -43,15 +43,16 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
 
+### Support me ❤
 
-</p>
+  If you like want I am doing you can sponsor my projects too! 😊
   
+</p>
 <p align="left">
- <a href="https://www.buymeacoffee.com/JustJordanT" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ <a href="https://ko-fi.com/justjordant" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-0089D6?style=flat&logo=ko-fi&logoColor=white" />
  </a>
 </p>
-
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,5 +70,13 @@ Here are some ideas to get you started:
 ## Get in touch
 
 
+support
+</p>
+  
+<p align="left">
+ <a href="https://www.buymeacoffee.com/JustJordanT" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
 
 -->
