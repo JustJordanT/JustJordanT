@@ -3,18 +3,18 @@
 # My Name is Jordan
 
 [![linkedin badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
-[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=for-the-badge&logo=google_chrome)](https://justjordant.com/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=for-the-badge&logo=twitter)](https://twitter.com/Just_Jordan_T)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
 [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/justjordant)
+[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=for-the-badge&logo=google_chrome)](https://justjordant.com/)
 
 Currently working as a Sr Production engineer. I'm a big technology nerd; when I am not working, I am always learning more software engineering and Machine Learning topics or spending time with family.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&layout=compact)
 
 
-- 🔭 I’m currently working on Machine Learning projects in Python.
-- 👯 I’m looking to collaborate on projects revolving around Python and Infrastructure technologies 
+- 🔭 I’m currently working on softwareEngineering in the .NET ecosystem.
+- 👯 I’m looking to collaborate on projects revolving around Python/.NET/C# and Infrastructure technologies 
 - 💬 Ask me about Network Automation Via Python, and infrastructure scripting.
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
