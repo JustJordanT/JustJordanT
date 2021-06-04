@@ -32,9 +32,6 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-F37626?style=for-the-badge&logo=Pytorch&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-Numpy-46a2f1?style=for-the-badge&logo=Numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
