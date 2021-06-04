@@ -6,7 +6,7 @@
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=for-the-badge&logo=google_chrome)](https://justjordant.com/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=for-the-badge&logo=twitter)](https://twitter.com/Just_Jordan_T)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
-[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/justjordant)
+[![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/justjordant)
 
 Currently working as a Sr Production engineer. I'm a big technology nerd; when I am not working, I am always learning more software engineering and Machine Learning topics or spending time with family.
 
