@@ -1,6 +1,6 @@
 <h1>Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-## My Name is Jordan
+## My Name is Jordan  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
 
 [![linkedin badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=for-the-badge&logo=twitter)](https://twitter.com/Just_Jordan_T)
@@ -19,7 +19,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
 - 📫 How to reach me: JordanTay9014@gmail.com
 - ⚡ Fun fact: I love learning new and exicting technologies.
 
-### Toolbox 🧰 
+### Toolbox <img src="https://media.giphy.com/media/Sw7TjgSIAli8y1xNpp/giphy.gif" width="30">
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
