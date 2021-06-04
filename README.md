@@ -44,7 +44,7 @@ Currently working as a Sr Production engineer. I'm a big technology nerd; when I
 
 </p>
   
-<p align="center">
+<p align="left">
  <a href="https://www.buymeacoffee.com/JustJordanT" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
