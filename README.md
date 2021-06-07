@@ -1,4 +1,4 @@
-<h1>Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
+<h1>Hey, friends! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
 ## My Name is Jordan  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
 
@@ -8,7 +8,9 @@
 [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/justjordant)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=for-the-badge&logo=google_chrome)](https://justjordant.com/)
 
-Currently working as a Sr Production engineer. I'm a big technology nerd; when I am not working, I am always learning more software engineering and Machine Learning topics or spending time with family.
+Currently working as a Sr Production engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystem. And focusing on a couple of side projects.
+
+Cheers! 😊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
