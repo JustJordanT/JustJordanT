@@ -52,15 +52,7 @@ Cheers! 😊
 
   If you like want I am doing you can sponsor my projects too! 😊
   
-</p>
-<p align="left">
- <a href="https://ko-fi.com/justjordant" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-0089D6?style=flat&logo=ko-fi&logoColor=white" />
- </a>
-</p>
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'B0B84USLR');kofiwidget2.draw();</script> 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84USLR)
 
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
