@@ -58,6 +58,10 @@ Cheers! 😊
   <img src="https://img.shields.io/badge/Ko--fi-0089D6?style=flat&logo=ko-fi&logoColor=white" />
  </a>
 </p>
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'B0B84USLR');kofiwidget2.draw();</script> 
+
+
 <!--
 **JustJordanT/JustJordanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,10 +82,6 @@ Here are some ideas to get you started:
 support
 </p>
   
-<p align="left">
- <a href="https://www.buymeacoffee.com/JustJordanT" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
- </a>
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84USLR)
 
 -->
