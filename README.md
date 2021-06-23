@@ -12,13 +12,6 @@ Currently working as a Sr Production engineer, join me on my journey as I become
 
 Cheers! 😊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
-
-
-
-
 - 🔭 I’m currently working on softwareEngineering in the .NET ecosystem.
 - 👯 I’m looking to collaborate on projects revolving around Python/.NET/C# and Infrastructure technologies 
 - 💬 Ask me about Network Automation Via Python, and infrastructure scripting.
@@ -75,5 +68,13 @@ support
 </p>
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84USLR)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)![GitHub stats](https://github-readme-stats.vercel.app/api/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJordanT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
+
 
 -->
