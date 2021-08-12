@@ -10,17 +10,15 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JustJordant)
 
 
-Currently working as a Sr Production engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystem. And focusing on a couple of side projects.
+Currently working as a Sr Production engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET and Java ecosystems. And focusing on a couple of side projects.
 
-Cheers! 😊
 
 - 🔭 I’m currently working on softwareEngineering in the .NET ecosystem.
-- 👯 I’m looking to collaborate on projects revolving around Python/.NET/C# and Infrastructure technologies 
-- 💬 Ask me about Network Automation Via Python, and infrastructure scripting.
-- 📫 How to reach me: JordanTay9014@gmail.com
-- ⚡ Fun fact: I love learning new and exciting technologies.
+- 💬 Ask me about Automation, and infrastructure scripting.
+- 📫 How to reach me: JordanTay9014@OutLook.com
+- ⚡ Fun fact: I love learning new and exciting technologies, DDD, CQRS
 
-### Toolbox <img src="https://media.giphy.com/media/Sw7TjgSIAli8y1xNpp/giphy.gif" width="30">
+## Toolbox <img src="https://media.giphy.com/media/Sw7TjgSIAli8y1xNpp/giphy.gif" width="30">
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -43,17 +41,32 @@ Cheers! 😊
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 
   
- # 📚 Blog posts
+ ## 📰 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+
+## 🧮 Stats for the week.
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5)
 
-  
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+<a href='https://profile.codersrank.io/user/justjordant/'>
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JustJordanT&skills=C%23,Java,HTML,CSS,Python,Go,Rust&width=820"
+/>
+</a>
+
+</details>
+
+<br/>
+
 ### Support me ❤
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say hi don't be shy!</b></em>
 
-  If you like want I am doing you can sponsor my projects too! 😊
+  If you like want I am doing you can sponsor my projects too. Cheers! 😊
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84USLR)
 
