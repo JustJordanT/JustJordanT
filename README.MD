@@ -50,15 +50,6 @@ Currently working as a Sr Production engineer, join me on my journey as I become
 ## 🧮 Stats for the week.
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5)
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-<a href='https://profile.codersrank.io/user/justjordant/'>
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JustJordanT&skills=C%23,Java,HTML,CSS,Python,Go,Rust&width=820"
-/>
-</a>
-
 </details>
 
 <br/>
