@@ -26,7 +26,7 @@ Currently working as a Sr Production engineer, join me on my journey as I become
   <img alt="SQL-Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=java&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-00599C?style=flat&logo=java&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat&logo=terraform&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" /> 
