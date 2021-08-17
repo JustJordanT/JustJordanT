@@ -22,15 +22,15 @@ Currently working as a Sr Production engineer, join me on my journey as I become
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-0089D6?style=flat&logo=powershell&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-2088FF?style=flat&logo=powershell&logoColor=white" />
   <img alt="SQL-Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-CC2927?style=flat&logo=java&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat&logo=terraform&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-2088FF?style=flat&logo=microsoft-azure&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=flat&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
