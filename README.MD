@@ -13,7 +13,7 @@
 Currently working as a Sr Production engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET and Java ecosystems. And focusing on a couple of side projects.
 
 
-- 🔭 I’m currently working on softwareEngineering in the .NET ecosystem.
+- 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
 - 💬 Ask me about Automation, and infrastructure scripting.
 - 📫 How to reach me: JordanTay9014@OutLook.com
 - ⚡ Fun fact: I love learning new and exciting technologies, DDD, CQRS
