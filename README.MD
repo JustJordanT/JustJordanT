@@ -10,7 +10,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JustJordant)
 
 
-Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET and Java ecosystems. And focusing on a couple of side projects.
+Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystems. And focusing on a couple of side projects.
 
 
 - 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
