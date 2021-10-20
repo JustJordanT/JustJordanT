@@ -28,6 +28,7 @@ Currently working as a Platform engineer, join me on my journey as I become a so
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat&logo=terraform&logoColor=white" />
+  <img alt="Pulumi" src="https://img.shields.io/badge/-Pulumi-623ce4?style=flat&logo=pulumi&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-2088FF?style=flat&logo=microsoft-azure&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=flat&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
