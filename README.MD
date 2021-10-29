@@ -14,7 +14,7 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 
 - 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
-- 💬 Ask me about Automation, and infrastructure scripting.
+- 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@OutLook.com
 - ⚡ Fun fact: I love learning new and exciting technologies, DDD, CQRS
 
