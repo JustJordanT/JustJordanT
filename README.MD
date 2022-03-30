@@ -21,10 +21,11 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="GO" src="https://img.shields.io/badge/GO-3776AB?style=flat&logo=GO&logoColor=white"/>
   <img alt="Powershell" src="https://img.shields.io/badge/Powershell-2088FF?style=flat&logo=powershell&logoColor=white" />
   <img alt="SQL-Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat&logo=terraform&logoColor=white" />
   <img alt="Pulumi" src="https://img.shields.io/badge/-Pulumi-623ce4?style=flat&logo=pulumi&logoColor=white" />
