@@ -5,7 +5,7 @@
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
-[![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/justjordant)
+[![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://dev.to/justjordant)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
 
