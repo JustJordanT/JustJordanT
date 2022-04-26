@@ -15,7 +15,7 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 - 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
-- ⚡ Fun fact: I love learning new and exciting technologies, DDD, CQRS
+- ⚡ Fun fact: I love learning new and exciting technologies.
 
 ## Toolbox <img src="https://media.giphy.com/media/Sw7TjgSIAli8y1xNpp/giphy.gif" width="30">
 
