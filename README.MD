@@ -49,7 +49,9 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## 🧮 Stats for the week.
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5) -->
-![Weekly Stats](https://wakatime.com/share/@JustJordanT/e75d2b52-c47b-4824-b8fe-cdcaa2257f3d.svg)
+<!-- ![Weekly Stats](https://wakatime.com/share/@JustJordanT/e75d2b52-c47b-4824-b8fe-cdcaa2257f3d.svg) -->
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 </details>
 
 <br/>
