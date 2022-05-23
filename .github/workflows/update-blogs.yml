@@ -16,8 +16,8 @@ jobs:
 #           comment_tag_name: "BLOGPOSTS"
           max_post_count: 5
           feed_list: "https://blog.justjordant.com/rss.xml"
-          commit_message: "Update blog.justjordant.com blog posts to readme"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+#           commit_message: "Update blog.justjordant.com blog posts to readme"
+#           gh_token: ${{ secrets.GITHUB_TOKEN }}
 # jobs:
 #   build:
 #     # The type of runner that the job will run on
