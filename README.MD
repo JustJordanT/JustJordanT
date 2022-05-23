@@ -41,9 +41,9 @@ Currently working as a Platform engineer, join me on my journey as I become a so
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 
   
- ## 📰 Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📄 Recent Blog posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <br/>
 
