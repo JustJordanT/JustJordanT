@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "JUSTJORDANT"
+          comment_tag_name: "BLOGPOSTS"
           feed_list: "https://blog.justjordant.com/rss.xml"
           commit_message: "Update blog.justjordant.com blog posts to readme"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
