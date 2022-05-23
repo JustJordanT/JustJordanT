@@ -1,6 +1,7 @@
 name: Blog posts on ReadMe
 on:
-  push: feat*
+  push:
+    branches: [feat*]
 #   schedule:
 #     # Runs every day at 9am UTC
 #     - cron: '0 4 * * *'
