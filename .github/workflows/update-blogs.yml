@@ -1,10 +1,10 @@
-name: Blog posts on ReadMe
+name: Latest blog post workflow
 on:
-  push:
-    branches: master
-#   schedule:
-#     # Runs every day at 9am UTC
-#     - cron: '0 4 * * *'
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -13,30 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-#           comment_tag_name: "BLOG"
-          feed_list: "https://blog.justjordant.com/rss.xml"
-#           commit_message: "Update blog.justjordant.com blog posts to readme"
-#           gh_token: ${{ secrets.GITHUB_TOKEN }}
-# jobs:
-#   build:
-#     # The type of runner that the job will run on
-#     runs-on: ubuntu-latest
-
-#     # Steps represent a sequence of tasks that will be executed as part of the job
-#     steps:
-#       - uses: actions/checkout@v2
-#       - name: Get RSS Feed
-#         uses: kohrongying/readme-the-rss@master
-#         with:
-#           feed_url: https://blog.justjordant.com/rss.xml
-#           count: 10
-#       - name: Commit file changes
-#         run: |
-#             git config --global user.name 'justjordant'
-#             git config --global user.email 'jordantay9014@outlook.com'
-#             git add .
-#             git diff --quiet --cached || git commit -m "Update README" 
-#       - name: Push changes
-#         uses: ad-m/github-push-action@master
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
