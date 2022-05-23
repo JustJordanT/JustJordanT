@@ -19,15 +19,6 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## Blog posts
 <!-- blog-post-list:start -->
-## justjordant
-
-justjordant
-
-[Read more](https://blog.justjordant.com)
-> Last updated: Monday, May 23, 2022 at 4:50:52 AM
-
-> Showing 5 of 10 posts.
-
 [![Day - 9 Pulumi Testing.](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_-_9_Pulumi_Testing..svg)](https://blog.justjordant.com/day-9-pulumi-testing)
 [![Day 8 - Pulumi Logging and Troubleshooting](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_8_-_Pulumi_Logging_and_Troubleshooting.svg)](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)
 [![Day 7 - Pulumi Component Resources.](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_7_-_Pulumi_Component_Resources..svg)](https://blog.justjordant.com/day-7-pulumi-component-resources)
