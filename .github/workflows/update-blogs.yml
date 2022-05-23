@@ -15,6 +15,7 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://blog.justjordant.com/rss.xml"
+          show_feed_data: false
       
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
