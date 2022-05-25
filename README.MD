@@ -31,6 +31,7 @@ Currently working as a Platform engineer, join me on my journey as I become a so
   
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+  
 <!-- BLOG-POST-LIST:END -->
 
 ### Support me ❤
