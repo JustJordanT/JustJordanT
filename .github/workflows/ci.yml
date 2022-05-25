@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
       - name: Update README
         run: |
-          cd /updates/
+          cd ${GITHUB_WORKSPACE}/updates/
           go run main.go
       - name: deploy changes
         run: |
