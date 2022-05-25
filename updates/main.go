@@ -1,11 +1,11 @@
 package main
 
 import (
-	"fmt"
+// 	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
-	"strconv"
+// 	"strconv"
 	"text/template"
 	"time"
 
@@ -73,7 +73,7 @@ func getRecentPosts(max int) ([]Post, error) {
 		posts[i] = Post{
 			Title: item.Title,
 			Link:  item.Link,
-			Date:  toRelativeDate(item.Published),
+// 			Date:  toRelativeDate(item.Published),
 		}
 	}
 	return posts, nil
