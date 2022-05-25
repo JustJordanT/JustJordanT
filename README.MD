@@ -30,15 +30,8 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 <br/>
   
 ## Blog posts
-<!-- blog-post-list:start -->
-[![Day 1 - Get Going With GO.](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_1_-_Get_Going_With_GO..svg)](https://blog.justjordant.com/day-1-get-going-with-go)
-[![Day - 9 Pulumi Testing.](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_-_9_Pulumi_Testing..svg)](https://blog.justjordant.com/day-9-pulumi-testing)
-[![Day 8 - Pulumi Logging and Troubleshooting](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_8_-_Pulumi_Logging_and_Troubleshooting.svg)](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)
-[![Day 7 - Pulumi Component Resources.](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_7_-_Pulumi_Component_Resources..svg)](https://blog.justjordant.com/day-7-pulumi-component-resources)
-[![Day 6 - Pulumi Inputs and Outputs](https://raw.githubusercontent.com/JustJordanT/JustJordanT/master/blog-post-list-output/justjordant/Day_6_-_Pulumi_Inputs_and_Outputs.svg)](https://blog.justjordant.com/day-6-pulumi-inputs-and-outputs)
-
-
-<!-- blog-post-list:end -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Support me ❤
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say hi don't be shy!</b></em>
