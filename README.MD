@@ -9,10 +9,10 @@
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
 
-Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystems. And focusing on a couple of side projects.
+Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET and Go ecosystems. And focusing on a couple of side projects.
 
 
-- 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
+- 🏗️ I’m currently working on software engineering in the C#, and Go ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ Fun fact: I love learning new and exciting technologies.
