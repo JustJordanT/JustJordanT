@@ -6,28 +6,28 @@
 [![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://dev.to/justjordant)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET and Go ecosystems. And focusing on a couple of side projects.
+Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystems. And focusing on a couple of side projects.
 
 
-- 🏗️ I’m currently working on software engineering in the C#, and Go ecosystem.
+- 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ Fun fact: I love learning new and exciting technologies.
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
+- **[Day 2 - Packages, Variables, and Functions Oh My!](https://blog.justjordant.com/day-2-packages-variables-and-functions-oh-my)**
 - **[Day 1 - Get Going With GO.](https://blog.justjordant.com/day-1-get-going-with-go)**
 - **[Day - 9 Pulumi Testing.](https://blog.justjordant.com/day-9-pulumi-testing)**
 - **[Day 8 - Pulumi Logging and Troubleshooting](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)**
 - **[Day 7 - Pulumi Component Resources.](https://blog.justjordant.com/day-7-pulumi-component-resources)**
-- **[Day 6 - Pulumi Inputs and Outputs](https://blog.justjordant.com/day-6-pulumi-inputs-and-outputs)**
 
 <!-- 
+- **[Day 2 - Packages, Variables, and Functions Oh My!](https://blog.justjordant.com/day-2-packages-variables-and-functions-oh-my)** ()
 - **[Day 1 - Get Going With GO.](https://blog.justjordant.com/day-1-get-going-with-go)** ()
 - **[Day - 9 Pulumi Testing.](https://blog.justjordant.com/day-9-pulumi-testing)** ()
 - **[Day 8 - Pulumi Logging and Troubleshooting](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)** ()
 - **[Day 7 - Pulumi Component Resources.](https://blog.justjordant.com/day-7-pulumi-component-resources)** ()
-- **[Day 6 - Pulumi Inputs and Outputs](https://blog.justjordant.com/day-6-pulumi-inputs-and-outputs)** ()
  -->
 
 <h3 align="left">Languages and Tools:</h3>
