@@ -9,7 +9,7 @@
 Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystems. And focusing on a couple of side projects.
 
 
-- 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
+- 🏗️ I’m currently working on softwareEngineering in the Go ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ Fun fact: I love learning new and exciting technologies.
