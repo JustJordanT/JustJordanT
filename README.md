@@ -16,18 +16,18 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
+- **[Day 10 - Pulumi Putting it all together.](https://blog.justjordant.com/day-10-pulumi-putting-it-all-together)**
 - **[Day 2 - Packages, Variables, and Functions Oh My!](https://blog.justjordant.com/day-2-packages-variables-and-functions-oh-my)**
 - **[Day 1 - Get Going With GO.](https://blog.justjordant.com/day-1-get-going-with-go)**
 - **[Day - 9 Pulumi Testing.](https://blog.justjordant.com/day-9-pulumi-testing)**
 - **[Day 8 - Pulumi Logging and Troubleshooting](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)**
-- **[Day 7 - Pulumi Component Resources.](https://blog.justjordant.com/day-7-pulumi-component-resources)**
 
 <!-- 
+- **[Day 10 - Pulumi Putting it all together.](https://blog.justjordant.com/day-10-pulumi-putting-it-all-together)** ()
 - **[Day 2 - Packages, Variables, and Functions Oh My!](https://blog.justjordant.com/day-2-packages-variables-and-functions-oh-my)** ()
 - **[Day 1 - Get Going With GO.](https://blog.justjordant.com/day-1-get-going-with-go)** ()
 - **[Day - 9 Pulumi Testing.](https://blog.justjordant.com/day-9-pulumi-testing)** ()
 - **[Day 8 - Pulumi Logging and Troubleshooting](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)** ()
-- **[Day 7 - Pulumi Component Resources.](https://blog.justjordant.com/day-7-pulumi-component-resources)** ()
  -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +45,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Fri, 17 Jun 2022
+_last update_: Fri, 24 Jun 2022
