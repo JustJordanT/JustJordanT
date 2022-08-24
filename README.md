@@ -16,18 +16,18 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
+- **[Day 1  - What are Data Structures and Algorithms](https://blog.justjordant.com/day-1-what-are-data-structures-and-algorithms)**
 - **[Day 10 - Pulumi Putting it all together.](https://blog.justjordant.com/day-10-pulumi-putting-it-all-together)**
 - **[Day 2 - Packages, Variables, and Functions Oh My!](https://blog.justjordant.com/day-2-packages-variables-and-functions-oh-my)**
 - **[Day 1 - Get Going With GO.](https://blog.justjordant.com/day-1-get-going-with-go)**
 - **[Day - 9 Pulumi Testing.](https://blog.justjordant.com/day-9-pulumi-testing)**
-- **[Day 8 - Pulumi Logging and Troubleshooting](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)**
 
 <!-- 
+- **[Day 1  - What are Data Structures and Algorithms](https://blog.justjordant.com/day-1-what-are-data-structures-and-algorithms)** ()
 - **[Day 10 - Pulumi Putting it all together.](https://blog.justjordant.com/day-10-pulumi-putting-it-all-together)** ()
 - **[Day 2 - Packages, Variables, and Functions Oh My!](https://blog.justjordant.com/day-2-packages-variables-and-functions-oh-my)** ()
 - **[Day 1 - Get Going With GO.](https://blog.justjordant.com/day-1-get-going-with-go)** ()
 - **[Day - 9 Pulumi Testing.](https://blog.justjordant.com/day-9-pulumi-testing)** ()
-- **[Day 8 - Pulumi Logging and Troubleshooting](https://blog.justjordant.com/day-8-pulumi-logging-and-troubleshooting)** ()
  -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +45,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Tue, 23 Aug 2022
+_last update_: Wed, 24 Aug 2022
