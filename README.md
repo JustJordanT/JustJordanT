@@ -1,4 +1,4 @@
-<h1>Hey, friends,  My Name is Jordan! 👨🏽‍🚒 </h1>
+<h1>Hey, friends,  My Name is Jordan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
