@@ -1,10 +1,22 @@
 <h1>Hey, friends,  My Name is Jordan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-[![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
-[![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
-[![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
-[![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://dev.to/justjordant)
-[![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
+<p align="center"> 
+ <a href="https://twitter.com/Just_Jordan_T" alt="Jordan's twitter">
+   <img src="https://img.shields.io/badge/-@Just_Jordan_T-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
+ <a href="https://github.com/justjordant" alt="mehdi hadeli's github">
+   <img src="https://img.shields.io/badge/-@justjordant-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/jordan-taylor-3555aba6" alt="Jordan's linkedin">
+   <img src="https://img.shields.io/badge/-JordanTaylor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordan-taylor-3555aba6" />
+ </a>
+ <a href="https://blog.JustJordanT.com" alt="Jordan's blog">
+   <img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=justjordant&color=ff69b4&style=flat-square" />
+ </a>
+</p>
 
 Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystems. And focusing on a couple of side projects.
 
