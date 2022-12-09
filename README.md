@@ -16,18 +16,18 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
+- **[Clean Code](https://blog.justjordant.com/clean-code)**
 - **[Scaling Web Apps on Azure.](https://blog.justjordant.com/scaling-web-apps-on-azure)**
 - **[Day 3 - Array](https://blog.justjordant.com/day-3-array)**
 - **[covid-19-texas](https://blog.justjordant.com/covid-19-texas)**
 - **[Day 2 - BigO Notation](https://blog.justjordant.com/day-2-bigo-notation)**
-- **[Day 1  - What are Data Structures and Algorithms](https://blog.justjordant.com/day-1-what-are-data-structures-and-algorithms)**
 
 <!-- 
+- **[Clean Code](https://blog.justjordant.com/clean-code)** ()
 - **[Scaling Web Apps on Azure.](https://blog.justjordant.com/scaling-web-apps-on-azure)** ()
 - **[Day 3 - Array](https://blog.justjordant.com/day-3-array)** ()
 - **[covid-19-texas](https://blog.justjordant.com/covid-19-texas)** ()
 - **[Day 2 - BigO Notation](https://blog.justjordant.com/day-2-bigo-notation)** ()
-- **[Day 1  - What are Data Structures and Algorithms](https://blog.justjordant.com/day-1-what-are-data-structures-and-algorithms)** ()
  -->
 
 <h3 align="left">Languages and Tools:</h3>
