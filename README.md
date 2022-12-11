@@ -16,18 +16,18 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
+- **[Day 2: The Benefits of DevOps](https://blog.justjordant.com/day-2-the-benefits-of-devops)**
+- **[Day 1: Introduction to DevOps](https://blog.justjordant.com/day-1-introduction-to-devops)**
 - **[Clean Code](https://blog.justjordant.com/clean-code)**
 - **[Scaling Web Apps on Azure.](https://blog.justjordant.com/scaling-web-apps-on-azure)**
 - **[Day 3 - Array](https://blog.justjordant.com/day-3-array)**
-- **[covid-19-texas](https://blog.justjordant.com/covid-19-texas)**
-- **[Day 2 - BigO Notation](https://blog.justjordant.com/day-2-bigo-notation)**
 
 <!-- 
+- **[Day 2: The Benefits of DevOps](https://blog.justjordant.com/day-2-the-benefits-of-devops)** ()
+- **[Day 1: Introduction to DevOps](https://blog.justjordant.com/day-1-introduction-to-devops)** ()
 - **[Clean Code](https://blog.justjordant.com/clean-code)** ()
 - **[Scaling Web Apps on Azure.](https://blog.justjordant.com/scaling-web-apps-on-azure)** ()
 - **[Day 3 - Array](https://blog.justjordant.com/day-3-array)** ()
-- **[covid-19-texas](https://blog.justjordant.com/covid-19-texas)** ()
-- **[Day 2 - BigO Notation](https://blog.justjordant.com/day-2-bigo-notation)** ()
  -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +45,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Fri, 09 Dec 2022
+_last update_: Sun, 11 Dec 2022
