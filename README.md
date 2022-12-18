@@ -16,18 +16,18 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
+- **[Day 9: Using AWS with DevOps.](https://blog.justjordant.com/day-9-using-aws-with-devops)**
 - **[Day 8: Using Docker for DevOps](https://blog.justjordant.com/day-8-using-docker-for-devops)**
 - **[Day 7: The Role of Testing in DevOps](https://blog.justjordant.com/day-7-the-role-of-testing-in-devops)**
 - **[Day 6: The Importance of Automation in DevOps](https://blog.justjordant.com/day-6-the-importance-of-automation-in-devops)**
 - **[Clean Coder](https://blog.justjordant.com/clean-coder)**
-- **[Day 5: The Role of Culture in DevOps](https://blog.justjordant.com/day-5-the-role-of-culture-in-devops)**
 
 <!-- 
+- **[Day 9: Using AWS with DevOps.](https://blog.justjordant.com/day-9-using-aws-with-devops)** ()
 - **[Day 8: Using Docker for DevOps](https://blog.justjordant.com/day-8-using-docker-for-devops)** ()
 - **[Day 7: The Role of Testing in DevOps](https://blog.justjordant.com/day-7-the-role-of-testing-in-devops)** ()
 - **[Day 6: The Importance of Automation in DevOps](https://blog.justjordant.com/day-6-the-importance-of-automation-in-devops)** ()
 - **[Clean Coder](https://blog.justjordant.com/clean-coder)** ()
-- **[Day 5: The Role of Culture in DevOps](https://blog.justjordant.com/day-5-the-role-of-culture-in-devops)** ()
  -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +45,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Fri, 16 Dec 2022
+_last update_: Sun, 18 Dec 2022
