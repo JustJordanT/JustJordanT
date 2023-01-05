@@ -6,10 +6,10 @@
 [![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://dev.to/justjordant)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET ecosystems. And focusing on a couple of side projects.
+Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET/GO ecosystems. And focusing on a couple of side projects.
 
 
-- 🏗️ I’m currently working on softwareEngineering in the .NET ecosystem.
+- 🏗️ I’m currently working on softwareEngineering in the .NET/Go ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ Fun fact: I love learning new and exciting technologies.
@@ -41,4 +41,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 01 Jan 2023
+_last update_: Thu, 05 Jan 2023
