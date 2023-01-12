@@ -2,8 +2,8 @@
 
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
-[![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber)
-[![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://dev.to/justjordant)
+<!-- [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWMddXhNGWkzBYYS9cv-7Qg?view_as=subscriber) -->
+[![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://blog.justjordant.com)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
 Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET/GO ecosystems. And focusing on a couple of side projects.
@@ -41,4 +41,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 08 Jan 2023
+_last update_: Thu, 12 Jan 2023
