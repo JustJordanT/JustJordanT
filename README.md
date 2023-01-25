@@ -9,10 +9,10 @@
 Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET/GO ecosystems. And focusing on a couple of side projects.
 
 
-- 🏗️ I’m currently working on softwareEngineering in the .NET/Go ecosystem.
+- 🏗️ I’m currently diving into software Engineering, Distributed Systems in the .NET/Go ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
-- ⚡ Fun fact: I love learning new and exciting technologies.
+- ⚡ What I am learning currently - RabbitMQ 🐰.
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
@@ -41,4 +41,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 22 Jan 2023
+_last update_: Wed, 25 Jan 2023
