@@ -6,10 +6,10 @@
 [![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://blog.justjordant.com)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the .NET/GO ecosystems. And focusing on a couple of side projects.
+Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the GO ecosystems. And focusing on a couple of side projects.
 
 
-- 🏗️ I’m currently diving into software Engineering, Distributed Systems in the .NET/Go ecosystem.
+- 🏗️ I’m currently diving into software Engineering, Distributed Systems in the Go ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ What I am learning currently - RabbitMQ 🐰.
