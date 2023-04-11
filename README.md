@@ -1,4 +1,4 @@
-<h1>Hey, friends,  My Name is Jordan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
+<h1>Hey, friends,  My Name is Jordan! <img src="https://github.com/egonelbre/gophers/blob/master/icon/typing-furiously.gif?raw=true" width="30"/> </h1>
 
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
@@ -31,7 +31,7 @@ Currently working as a Platform engineer, join me on my journey as I become a so
  -->
 
 
-## 🧮 Stats for the week.
+<h2> 🧮 Stats for the week.  </h2>
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5) -->
 <!-- ![Weekly Stats](https://wakatime.com/share/@JustJordanT/e75d2b52-c47b-4824-b8fe-cdcaa2257f3d.svg) -->
   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
@@ -41,4 +41,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 09 Apr 2023
+_last update_: Tue, 11 Apr 2023
