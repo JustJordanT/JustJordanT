@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://blog.justjordant.com)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-Currently working as a Platform engineer, join me on my journey as I become a software engineer, I spent the last couple of years working with Python, and now I am focusing on the GO ecosystems. And focusing on a couple of side projects.
+Currently working as a Platform engineer, love dive into topics on software engineer, I spent the last couple of years working with Python, and now I am focusing on the Go ecosystems. And focusing on a couple of side projects.
 
 
 - 🏗️ I’m currently diving into software Engineering, Distributed Systems in the Go ecosystem.
@@ -31,12 +31,6 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 - **[Day 8: Using Docker for DevOps](https://blog.justjordant.com/day-8-using-docker-for-devops)** ()
 - **[Day 7: The Role of Testing in DevOps](https://blog.justjordant.com/day-7-the-role-of-testing-in-devops)** ()
  -->
-
-
-<h2> 🧮 Stats for the week.  </h2>
-<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5) -->
-<!-- ![Weekly Stats](https://wakatime.com/share/@JustJordanT/e75d2b52-c47b-4824-b8fe-cdcaa2257f3d.svg) -->
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JustJordanT&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 ## Get in touch
