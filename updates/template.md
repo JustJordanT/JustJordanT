@@ -14,6 +14,8 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ What I am learning currently - RabbitMQ 🐰.
 
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64dcf86d095da82caf9c8478?variant=dark)](https://roadmap.sh)
+
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
 {{range .Posts}}- **[{{.Title}}]({{.Link}})**
