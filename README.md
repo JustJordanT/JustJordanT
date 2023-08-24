@@ -14,6 +14,8 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ What I am learning currently - RabbitMQ 🐰.
 
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64dcf86d095da82caf9c8478?variant=dark)](https://roadmap.sh)
+
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
 - **[Continues integration vs. Continues deployment](https://blog.justjordant.com/continues-integration-vs-continues-deployment)**
@@ -41,4 +43,4 @@ Currently working as a Platform engineer, join me on my journey as I become a so
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 20 Aug 2023
+_last update_: Thu, 24 Aug 2023
