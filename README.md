@@ -37,4 +37,4 @@ Currently working as a Platform engineer, love dive into topics on software engi
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 08 Oct 2023
+_last update_: Sun, 15 Oct 2023
