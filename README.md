@@ -18,18 +18,18 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
-- **[Continues integration vs. Continues deployment](https://blog.justjordant.com/continues-integration-vs-continues-deployment)**
-- **[Day 10: DevOps is cool](https://blog.justjordant.com/day-10-devops-is-cool)**
-- **[Day 9: Using AWS with DevOps.](https://blog.justjordant.com/day-9-using-aws-with-devops)**
-- **[Day 8: Using Docker for DevOps](https://blog.justjordant.com/day-8-using-docker-for-devops)**
-- **[Day 7: The Role of Testing in DevOps](https://blog.justjordant.com/day-7-the-role-of-testing-in-devops)**
+- **[Go in AWS, SNS and SQS](https://justjordant.com/posts/go-aws-sns-sqs/)**
+- **[Pizza application](https://justjordant.com/posts/pizza-byte/)**
+- **[Understanding Entities, Models, and DTOs in C# Applications](https://justjordant.com/posts/c-sharp-entity-model-dto/)**
+- **[Mastering Go For Loops - A Comprehensive Guide](https://justjordant.com/posts/go-loops/)**
+- **[Exploring Interfaces in Go - A Versatile Tool for Polymorphism](https://justjordant.com/posts/go-interfaces/)**
 
 <!-- 
-- **[Continues integration vs. Continues deployment](https://blog.justjordant.com/continues-integration-vs-continues-deployment)** ()
-- **[Day 10: DevOps is cool](https://blog.justjordant.com/day-10-devops-is-cool)** ()
-- **[Day 9: Using AWS with DevOps.](https://blog.justjordant.com/day-9-using-aws-with-devops)** ()
-- **[Day 8: Using Docker for DevOps](https://blog.justjordant.com/day-8-using-docker-for-devops)** ()
-- **[Day 7: The Role of Testing in DevOps](https://blog.justjordant.com/day-7-the-role-of-testing-in-devops)** ()
+- **[Go in AWS, SNS and SQS](https://justjordant.com/posts/go-aws-sns-sqs/)** ()
+- **[Pizza application](https://justjordant.com/posts/pizza-byte/)** ()
+- **[Understanding Entities, Models, and DTOs in C# Applications](https://justjordant.com/posts/c-sharp-entity-model-dto/)** ()
+- **[Mastering Go For Loops - A Comprehensive Guide](https://justjordant.com/posts/go-loops/)** ()
+- **[Exploring Interfaces in Go - A Versatile Tool for Polymorphism](https://justjordant.com/posts/go-interfaces/)** ()
  -->
 
 
