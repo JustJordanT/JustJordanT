@@ -11,7 +11,7 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 
 - 🏗️ I’m currently diving into software Engineering, Distributed Systems in the Go ecosystem.
 - 💬 Ask me about CI/CD, infrastructure.
-- 📫 How to reach me: JordanTay9014@Outlook.com
+- 📫 How to reach me: Jordantay9014+master@gmail.com
 - ⚡ What I am learning currently - RabbitMQ 🐰.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6511ee923dc8db4c64bbde10?variant=dark)](https://roadmap.sh)
