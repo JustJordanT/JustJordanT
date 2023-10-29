@@ -1,4 +1,4 @@
-<h1>Hey, friends,  My Name is Jordan! <img src="https://github.com/egonelbre/gophers/blob/master/icon/typing-furiously.gif?raw=true" width="30"/> </h1>
+<h1>My name is Jordan some call me JT.  <img src="https://github.com/egonelbre/gophers/blob/master/icon/typing-furiously.gif?raw=true" width="30"/> </h1>
 
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![twitter badge](https://img.shields.io/badge/@Just_Jordan_T-2088FF?style=flat&logo=twitter)](https://twitter.com/Just_Jordan_T)
@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)](https://blog.justjordant.com)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-Currently working as a Platform engineer, love dive into topics on software engineer, I spent the last couple of years working with Python, and now I am focusing on the Go ecosystems. And focusing on a couple of side projects.
+I am currently working as a Sr Platform engineer, I spent the last couple of years working with Python and .NET and now I am adding the Go ecosystems to the list. And focusing on a couple of side projects.
 
 
 - 🏗️ I’m currently diving into software Engineering, Distributed Systems in the Go ecosystem.
@@ -14,7 +14,7 @@ Currently working as a Platform engineer, love dive into topics on software engi
 - 📫 How to reach me: JordanTay9014@Outlook.com
 - ⚡ What I am learning currently - RabbitMQ 🐰.
 
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64dcf86d095da82caf9c8478?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6511ee923dc8db4c64bbde10?variant=dark)](https://roadmap.sh)
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
