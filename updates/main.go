@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	feedUrl      = "https://blog.justjordant.com/rss.xml"
+	feedUrl      = "https://www.justjordant.com/rss.xml"
 	templatePath = "./template.md"
 	readmePath   = "../README.md"
 )
