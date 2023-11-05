@@ -19,14 +19,14 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
 - **[Go in AWS, SNS and SQS](https://justjordant.com/posts/go-aws-sns-sqs/)**
-- **[Pizza application](https://justjordant.com/posts/pizza-byte/)**
+- **[Pizza application Web API](https://justjordant.com/posts/pizza-byte/)**
 - **[Understanding Entities, Models, and DTOs in C# Applications](https://justjordant.com/posts/c-sharp-entity-model-dto/)**
 - **[Mastering Go For Loops - A Comprehensive Guide](https://justjordant.com/posts/go-loops/)**
 - **[Exploring Interfaces in Go - A Versatile Tool for Polymorphism](https://justjordant.com/posts/go-interfaces/)**
 
 <!-- 
 - **[Go in AWS, SNS and SQS](https://justjordant.com/posts/go-aws-sns-sqs/)** ()
-- **[Pizza application](https://justjordant.com/posts/pizza-byte/)** ()
+- **[Pizza application Web API](https://justjordant.com/posts/pizza-byte/)** ()
 - **[Understanding Entities, Models, and DTOs in C# Applications](https://justjordant.com/posts/c-sharp-entity-model-dto/)** ()
 - **[Mastering Go For Loops - A Comprehensive Guide](https://justjordant.com/posts/go-loops/)** ()
 - **[Exploring Interfaces in Go - A Versatile Tool for Polymorphism](https://justjordant.com/posts/go-interfaces/)** ()
@@ -37,4 +37,4 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 29 Oct 2023
+_last update_: Sun, 05 Nov 2023
