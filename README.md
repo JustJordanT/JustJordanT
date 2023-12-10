@@ -37,4 +37,4 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 03 Dec 2023
+_last update_: Sun, 10 Dec 2023
