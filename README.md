@@ -18,18 +18,18 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
-- **[Go in AWS, SNS and SQS](https://justjordant.com/posts/go-aws-sns-sqs/)**
-- **[Pizza application Web API](https://justjordant.com/posts/pizza-byte/)**
-- **[Understanding Entities, Models, and DTOs in C# Applications](https://justjordant.com/posts/c-sharp-entity-model-dto/)**
-- **[Mastering Go For Loops - A Comprehensive Guide](https://justjordant.com/posts/go-loops/)**
-- **[Exploring Interfaces in Go - A Versatile Tool for Polymorphism](https://justjordant.com/posts/go-interfaces/)**
+- **[Building Structs With Go](https://justjordant.com/blog/building-structs-with-go/)**
+- **[Building With Interfaces in Go](https://justjordant.com/blog/building-with-interfaces-in-go/)**
+- **[Working with Entities, Models, and DTOs in C#](https://justjordant.com/blog/c-sharp-entities-models/)**
+- **[The Basics Of Entity Framework Core](https://justjordant.com/blog/dotnet-ef-core/)**
+- **[Working With For Loops in Go](https://justjordant.com/blog/go-loops/)**
 
 <!-- 
-- **[Go in AWS, SNS and SQS](https://justjordant.com/posts/go-aws-sns-sqs/)** ()
-- **[Pizza application Web API](https://justjordant.com/posts/pizza-byte/)** ()
-- **[Understanding Entities, Models, and DTOs in C# Applications](https://justjordant.com/posts/c-sharp-entity-model-dto/)** ()
-- **[Mastering Go For Loops - A Comprehensive Guide](https://justjordant.com/posts/go-loops/)** ()
-- **[Exploring Interfaces in Go - A Versatile Tool for Polymorphism](https://justjordant.com/posts/go-interfaces/)** ()
+- **[Building Structs With Go](https://justjordant.com/blog/building-structs-with-go/)** ()
+- **[Building With Interfaces in Go](https://justjordant.com/blog/building-with-interfaces-in-go/)** ()
+- **[Working with Entities, Models, and DTOs in C#](https://justjordant.com/blog/c-sharp-entities-models/)** ()
+- **[The Basics Of Entity Framework Core](https://justjordant.com/blog/dotnet-ef-core/)** ()
+- **[Working With For Loops in Go](https://justjordant.com/blog/go-loops/)** ()
  -->
 
 
@@ -37,4 +37,4 @@ I am currently working as a Sr Platform engineer, I spent the last couple of yea
 
 Reach out via [🐦 Twitter at @Just_Jordan_T](https://twitter.com/Just_Jordan_T) or find me on [LinkedIn](https://linkedin.com/in/justjordant).
 
-_last update_: Sun, 24 Dec 2023
+_last update_: Sun, 31 Dec 2023
