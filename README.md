@@ -27,4 +27,4 @@ My name is Jordan, but some call me JT. I'm a senior platform engineer juggling 
 - **[Working With For Loops in Go](https://justjordant.com/blog/go-loops/)** ()
  -->
 
-_last update_: Sun, 31 Mar 2024
+_last update_: Sun, 07 Apr 2024
