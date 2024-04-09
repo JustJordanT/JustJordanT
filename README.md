@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-2088FF?&style=flat&logo=blog&logoColor=white)]([https://blog.justjordant.com](https://medium.com/@jordantay9014))
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-My name is Jordan, but some call me JT. I'm a senior platform engineer juggling a few side projects with .NET, Python, Go, and TypeScript.
+My name is Jordan, but some call me JT. I'm a senior platform engineer juggling a few side projects with Go, .NET.
 
 
 - 🏗️ I’m diving into Software Engineering and Distributed Systems in the Go ecosystem.
@@ -27,4 +27,4 @@ My name is Jordan, but some call me JT. I'm a senior platform engineer juggling 
 - **[Working With For Loops in Go](https://justjordant.com/blog/go-loops/)** ()
  -->
 
-_last update_: Sun, 07 Apr 2024
+_last update_: Tue, 09 Apr 2024
