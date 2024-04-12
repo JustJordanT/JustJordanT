@@ -10,7 +10,7 @@ My name is Jordan, but some call me JT. I'm a senior platform engineer juggling 
 - 💬 Ask me about CI/CD infrastructure.
 - ⚡ What I am learning currently - AWS - SNS, SQS, DynamoDB, Event-Driven architecture.
 
-## Recent posts I published [on my blog](https://blog.justjordant.com)
+## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 {{range .Posts}}- **[{{.Title}}]({{.Link}})**
 {{end}}
