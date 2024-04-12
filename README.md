@@ -12,18 +12,12 @@ My name is Jordan, but some call me JT. I'm a senior platform engineer juggling 
 
 ## Recent posts I published [on my blog](https://blog.justjordant.com)
 
-- **[Building Structs With Go](https://justjordant.com/blog/building-structs-with-go/)**
-- **[Building With Interfaces in Go](https://justjordant.com/blog/building-with-interfaces-in-go/)**
-- **[Working with Entities, Models, and DTOs in C#](https://justjordant.com/blog/c-sharp-entities-models/)**
-- **[The Basics Of Entity Framework Core](https://justjordant.com/blog/dotnet-ef-core/)**
-- **[Working With For Loops in Go](https://justjordant.com/blog/go-loops/)**
+- **[Building With Interfaces in Go](https://justjordant.com/blog/building-with-interfaces-in-go)**
+- **[Building Structs With Go](https://justjordant.com/blog/building-structs-with-go)**
 
 <!-- 
-- **[Building Structs With Go](https://justjordant.com/blog/building-structs-with-go/)** ()
-- **[Building With Interfaces in Go](https://justjordant.com/blog/building-with-interfaces-in-go/)** ()
-- **[Working with Entities, Models, and DTOs in C#](https://justjordant.com/blog/c-sharp-entities-models/)** ()
-- **[The Basics Of Entity Framework Core](https://justjordant.com/blog/dotnet-ef-core/)** ()
-- **[Working With For Loops in Go](https://justjordant.com/blog/go-loops/)** ()
+- **[Building With Interfaces in Go](https://justjordant.com/blog/building-with-interfaces-in-go)** ()
+- **[Building Structs With Go](https://justjordant.com/blog/building-structs-with-go)** ()
  -->
 
-_last update_: Tue, 09 Apr 2024
+_last update_: Fri, 12 Apr 2024
