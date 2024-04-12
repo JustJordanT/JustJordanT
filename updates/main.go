@@ -73,40 +73,40 @@ func getRecentPosts(max int) ([]Post, error) {
 		posts[i] = Post{
 			Title: item.Title,
 			Link:  item.Link,
-			Date:  toRelativeDate(item.Published),
+			// Date:  toRelativeDate(item.Published),
 		}
 	}
 	return posts, nil
 }
 
-func toRelativeDate(d string) string {
-	dt, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", d)
-	if err != nil {
-		log.Fatalf("error parsing article date: %v", err)
-	}
-	now := time.Now().Unix()
-	days := (now - dt.Unix()) / 86400
-	months := (now - dt.Unix()) / 2592000
+// func toRelativeDate(d string) string {
+// 	dt, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", d)
+// 	if err != nil {
+// 		log.Fatalf("error parsing article date: %v", err)
+// 	}
+// 	now := time.Now().Unix()
+// 	days := (now - dt.Unix()) / 86400
+// 	months := (now - dt.Unix()) / 2592000
 
-	if days == 0 {
-		return "today"
-	}
+// 	if days == 0 {
+// 		return "today"
+// 	}
 
-	date := ""
-	if days < 31 {
-		date = strconv.Itoa(int(days))
-		if days == 1 {
-			date += " day"
-		} else {
-			date += " days"
-		}
-	} else {
-		date = strconv.Itoa(int(months))
-		if months == 1 {
-			date += " month"
-		} else {
-			date += " months"
-		}
-	}
-	return fmt.Sprintf("%s ago", date)
-}
+// 	date := ""
+// 	if days < 31 {
+// 		date = strconv.Itoa(int(days))
+// 		if days == 1 {
+// 			date += " day"
+// 		} else {
+// 			date += " days"
+// 		}
+// 	} else {
+// 		date = strconv.Itoa(int(months))
+// 		if months == 1 {
+// 			date += " month"
+// 		} else {
+// 			date += " months"
+// 		}
+// 	}
+// 	return fmt.Sprintf("%s ago", date)
+// }
