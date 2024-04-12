@@ -35,7 +35,7 @@ func main() {
 		log.Fatalf("Error while reading template file. %v", err)
 		os.Exit(1)
 	}
-	p, err := getRecentPosts(5)
+	p, err := getRecentPosts(2)
 	if err != nil {
 		log.Fatalf("Error while reading recent posts %v", err)
 		os.Exit(1)
