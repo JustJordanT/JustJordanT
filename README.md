@@ -19,4 +19,4 @@ My name is Jordan, but some call me JT. I'm a senior platform engineer juggling 
 - **[Understanding Entities, Models, and DTOs in C# Applications](https://blog.justjordant.com/understanding-entities-models-and-dtos-in-c-applications)** ()
  -->
 
-_last update_: Sun, 02 Jun 2024
+_last update_: Sun, 09 Jun 2024
