@@ -19,4 +19,4 @@ My name is Jordan. I'm a senior platform engineer juggling a few side projects w
 - **[Understanding Entities, Models, and DTOs in C# Applications](https://blog.justjordant.com/understanding-entities-models-and-dtos-in-c-applications)** ()
  -->
 
-_last update_: Sat, 05 Oct 2024
+_last update_: Sun, 06 Oct 2024
