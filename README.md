@@ -11,12 +11,12 @@ My name is Jordan. I'm a senior platform engineer juggling a few side projects w
 
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
+- **[Reflections on a "Dud" Project: Lessons Learned from WaitLiist](https://blog.justjordant.com/reflections-on-a-dud-project-lessons-learned-from-waitliist)**
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)**
-- **[Understanding Entities, Models, and DTOs in C# Applications](https://blog.justjordant.com/understanding-entities-models-and-dtos-in-c-applications)**
 
 <!-- 
+- **[Reflections on a "Dud" Project: Lessons Learned from WaitLiist](https://blog.justjordant.com/reflections-on-a-dud-project-lessons-learned-from-waitliist)** ()
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
-- **[Understanding Entities, Models, and DTOs in C# Applications](https://blog.justjordant.com/understanding-entities-models-and-dtos-in-c-applications)** ()
  -->
 
-_last update_: Sun, 13 Oct 2024
+_last update_: Sun, 20 Oct 2024
