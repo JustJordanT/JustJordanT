@@ -11,12 +11,12 @@ My name is Jordan. I'm a senior platform engineer juggling a few side projects w
 
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
+- **[My Journey to AZ-104: Bridging Traditional Infrastructure and Cloud](https://blog.justjordant.com/my-journey-to-az-104-bridging-traditional-infrastructure-and-cloud)**
 - **[Architecting for Application Requirements in Azure](https://blog.justjordant.com/architecting-for-application-requirements-in-azure)**
-- **[Reflections on a "Dud" Project: Lessons Learned from WaitLiist](https://blog.justjordant.com/reflections-on-a-dud-project-lessons-learned-from-waitliist)**
 
 <!-- 
+- **[My Journey to AZ-104: Bridging Traditional Infrastructure and Cloud](https://blog.justjordant.com/my-journey-to-az-104-bridging-traditional-infrastructure-and-cloud)** ()
 - **[Architecting for Application Requirements in Azure](https://blog.justjordant.com/architecting-for-application-requirements-in-azure)** ()
-- **[Reflections on a "Dud" Project: Lessons Learned from WaitLiist](https://blog.justjordant.com/reflections-on-a-dud-project-lessons-learned-from-waitliist)** ()
  -->
 
-_last update_: Sun, 17 Nov 2024
+_last update_: Sun, 24 Nov 2024
