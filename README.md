@@ -13,6 +13,10 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
    - [HanoJS](https://hono.dev/)
 - ✨ What I am learning currently - Event-Driven architecture.
 
+## Projects
+[nestjs-post-api](https://github.com/JustJordanT/nestjs-posts-api)
+
+
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 - **[Navigating the AZ-305: My Journey to Designing Microsoft Azure Infrastructure Solutions](https://blog.justjordant.com/navigating-the-az-305-my-journey-to-designing-microsoft-azure-infrastructure-solutions)**
@@ -29,4 +33,4 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
  -->
 
-_last update_: Sun, 15 Dec 2024
+_last update_: Tue, 17 Dec 2024
