@@ -15,6 +15,7 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 
 ## Projects
 [nestjs-posts-api](https://github.com/JustJordanT/nestjs-posts-api)
+
 [nestjs-apollo-federation](https://github.com/JustJordanT/nestjs-apollo-federation)
 
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
