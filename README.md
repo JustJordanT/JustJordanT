@@ -18,8 +18,6 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 
 [nestjs-apollo-federation](https://github.com/JustJordanT/nestjs-apollo-federation)
 
-[expressjs-todo-testing](https://github.com/JustJordanT/expressjs-todo-testing/tree/master)
-
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 - **[Navigating the AZ-305: My Journey to Designing Microsoft Azure Infrastructure Solutions](https://blog.justjordant.com/navigating-the-az-305-my-journey-to-designing-microsoft-azure-infrastructure-solutions)**
@@ -36,4 +34,4 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
  -->
 
-_last update_: Wed, 18 Dec 2024
+_last update_: Fri, 20 Dec 2024
