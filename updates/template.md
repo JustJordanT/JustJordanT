@@ -18,6 +18,8 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 
 [nestjs-apollo-federation](https://github.com/JustJordanT/nestjs-apollo-federation)
 
+[expressjs-todo-testing](https://github.com/JustJordanT/expressjs-todo-testing/tree/master)
+
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 {{range .Posts}}- **[{{.Title}}]({{.Link}})**
