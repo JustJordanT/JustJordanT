@@ -18,6 +18,8 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 
 [nestjs-apollo-federation](https://github.com/JustJordanT/nestjs-apollo-federation)
 
+[expressjs-todo-testing](https://github.com/JustJordanT/expressjs-todo-testing/tree/master)
+
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 - **[Navigating the AZ-305: My Journey to Designing Microsoft Azure Infrastructure Solutions](https://blog.justjordant.com/navigating-the-az-305-my-journey-to-designing-microsoft-azure-infrastructure-solutions)**
