@@ -9,8 +9,6 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 - 🏗️ Software Engineering and Distributed Systems and making Saas applications in:
    - [Go](https://go.dev/)
    - [TypeScript](https://www.typescriptlang.org/)
-   - [Expo](https://expo.dev/)
-   - [HanoJS](https://hono.dev/)
 - ✨ What I am learning currently - Event-Driven architecture.
 
 ## Projects
