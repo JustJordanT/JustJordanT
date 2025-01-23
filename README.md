@@ -3,7 +3,7 @@
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-My name is Jordan. I'm a Sr platform engineer juggling a few side projects with Go and TypeScript.
+My name is Jordan. I'm a software engineer juggling a few side projects with Go and TypeScript.
 
 
 - 🏗️ Software Engineering and Distributed Systems and making Saas applications in:
@@ -34,4 +34,4 @@ My name is Jordan. I'm a Sr platform engineer juggling a few side projects with 
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
  -->
 
-_last update_: Sun, 19 Jan 2025
+_last update_: Thu, 23 Jan 2025
