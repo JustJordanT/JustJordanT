@@ -34,4 +34,4 @@ My name is Jordan. I'm a software engineer juggling a few side projects with Go 
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
  -->
 
-_last update_: Thu, 23 Jan 2025
+_last update_: Sun, 26 Jan 2025
