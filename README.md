@@ -37,4 +37,4 @@ My experience spans from platform engineering to data science, where I focus on 
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
  -->
 
-_last update_: Wed, 05 Feb 2025
+_last update_: Sun, 09 Feb 2025
