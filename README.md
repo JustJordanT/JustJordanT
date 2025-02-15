@@ -14,13 +14,6 @@ My experience spans from platform engineering to data science, where I focus on 
    - [TypeScript](https://www.typescriptlang.org/)
 - ✨ What I am learning currently - AI distributed agents.
 
-## Projects
-[nestjs-posts-api](https://github.com/JustJordanT/nestjs-posts-api)
-
-[nestjs-apollo-federation](https://github.com/JustJordanT/nestjs-apollo-federation)
-
-[expressjs-todo-testing](https://github.com/JustJordanT/expressjs-todo-testing/tree/master)
-
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 - **[Navigating the AZ-305: My Journey to Designing Microsoft Azure Infrastructure Solutions](https://blog.justjordant.com/navigating-the-az-305-my-journey-to-designing-microsoft-azure-infrastructure-solutions)**
@@ -37,4 +30,4 @@ My experience spans from platform engineering to data science, where I focus on 
 - **[Modeling Users and Posts with C# and Entity Framework Core in ASP.NET Core Web API](https://blog.justjordant.com/modeling-users-and-posts-with-c-and-entity-framework-core-in-aspnet-core-web-api)** ()
  -->
 
-_last update_: Sun, 09 Feb 2025
+_last update_: Sat, 15 Feb 2025
