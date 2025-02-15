@@ -14,13 +14,6 @@ My experience spans from platform engineering to data science, where I focus on 
    - [TypeScript](https://www.typescriptlang.org/)
 - ✨ What I am learning currently - AI distributed agents.
 
-## Projects
-[nestjs-posts-api](https://github.com/JustJordanT/nestjs-posts-api)
-
-[nestjs-apollo-federation](https://github.com/JustJordanT/nestjs-apollo-federation)
-
-[expressjs-todo-testing](https://github.com/JustJordanT/expressjs-todo-testing/tree/master)
-
 ## Recent posts I published [on my blog](https://justjordant.com/blog)
 
 {{range .Posts}}- **[{{.Title}}]({{.Link}})**
