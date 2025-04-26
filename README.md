@@ -11,7 +11,6 @@ I’m passionate about building robust systems that scale with the business. I l
 
 
 - 🏗️ Building Products and Distributed Systems in:
-   - [Python](dot.net)
-   - [Go](https://go.dev/)
+   - [.NET](dot.net)
    - [TypeScript](https://www.typescriptlang.org/)
 - ✨ What I am learning currently - AI distributed agents.
