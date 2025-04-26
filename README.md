@@ -3,13 +3,15 @@
 [![linked-in badge](https://img.shields.io/badge/JordanTaylor-2088FF?style=flat&logo=linkedin)](https://www.linkedin.com/in/jordan-taylor-3555aba6/)
 [![Web badge](https://img.shields.io/badge/WebSite-30302f?style=flat&logo=google_chrome)](https://justjordant.com/)
 
-My name is Jordan. I've been a builder since I was a kid, evolving from Legos and video games to machine learning models and AI systems. I work on developing ML pipelines and AI applications using Python, specializing in both traditional statistical approaches and modern deep learning frameworks. 
+Software Engineer with 8+ years of experience building scalable, resilient platforms and distributed systems. I specialize in backend and infrastructure engineering with deep expertise in CI/CD pipelines, cloud-native architectures, and software design using ASP.NET and Blazor.
 
-My experience spans from platform engineering to data science, where I focus on building scalable AI solutions. I'm passionate about working on several open-source ML projects that I'm building in public, contributing to the AI community while continuously learning and experimenting with emerging technologies.
+I’ve architected and deployed distributed applications that support real-time workloads, fault tolerance, and horizontal scalability. My work includes modernizing legacy systems, implementing CI/CD pipelines, and optimizing performance in complex, cloud-based environments.
+
+I’m passionate about building robust systems that scale with the business. I leverage automation and thoughtful software design to improve engineering velocity, developer experience, and operational reliability.
 
 
-- 🏗️ Building ML/AI Products and Distributed Systems in:
-   - [Python](https://python.org/)
+- 🏗️ Building Products and Distributed Systems in:
+   - [Python](dot.net)
    - [Go](https://go.dev/)
    - [TypeScript](https://www.typescriptlang.org/)
 - ✨ What I am learning currently - AI distributed agents.
