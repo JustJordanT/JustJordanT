@@ -10,8 +10,8 @@ I’ve architected and deployed distributed applications that support real-time 
 I’m passionate about building robust systems that scale with the business. I leverage automation and thoughtful software design to improve engineering velocity, developer experience, and operational reliability.
 
 
-- 🏗️ Building ML/AI Products and Distributed Systems in:
-   - [Python](https://python.org/)
+- 🏗️ Building Products and Distributed Systems in:
+   - [Python](dot.net)
    - [Go](https://go.dev/)
    - [TypeScript](https://www.typescriptlang.org/)
 - ✨ What I am learning currently - AI distributed agents.
